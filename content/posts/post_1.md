@@ -1,6 +1,6 @@
 ---
 title: "Mi experiencia en LaunchX"
-date: 2022-03-01
+date: 2022-04-06
 description: 'Los recuerdos'
 ---
 
